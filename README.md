@@ -5,6 +5,7 @@ Unfortunately, many of my recent projects I have not made public on GitHub, but 
 ## How to reach me
 
 Email: ahmedhafeezbaig@gmail.com
+
 Discord: baig.el ##3389
 
 ## A note on AI
